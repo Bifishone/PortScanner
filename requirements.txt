@@ -1,0 +1,8 @@
+# PortScanner 依赖包列表
+# 使用命令安装: python3 -m pip install -r requirements.txt
+
+# 用于终端彩色输出
+colorama>=0.4.6
+
+# 用于Excel文件生成与格式化
+openpyxl>=3.1.2
